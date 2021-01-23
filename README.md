@@ -1,5 +1,5 @@
-# Machine-Learning-Course
-# Introduction to machine learning course with some well known algorithm and data sets.
+# Machine-Learning-Course-Udemy
+# This notebook was created while taking Python for Data Science and machine learning @ Udemy https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5784218?start=0#overview I hope this helps.
 
 Linear Regression 
 
