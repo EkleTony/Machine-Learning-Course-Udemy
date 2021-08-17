@@ -5,7 +5,7 @@ This notebook was created while taking Python for Data Science and machine learn
 
 ### K-Nearest Neighbor
 
-###bRandom Forest
+### Random Forest
 
 ### Decision Tree
 
